@@ -5,6 +5,6 @@
 * Python Imaging Library (PIL)
 
 ## How to use?
-```shell
+```bash
 python watermark.py -i path/to/image -w path/to/watermark
 ```
