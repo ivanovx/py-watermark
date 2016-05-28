@@ -1,4 +1,5 @@
 # Watermark
+Python script to add watermark to image using PIL
 
 ## Requirements
 * Python 2.7
